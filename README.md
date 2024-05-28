@@ -9,6 +9,8 @@ app_file: app.py
 pinned: false
 ---
 
+![alt text](assets/3.png)
+
 🚀Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 🚀Huggingface Spaces : https://huggingface.co/spaces/prithivMLmods/Pdf-to-Word
