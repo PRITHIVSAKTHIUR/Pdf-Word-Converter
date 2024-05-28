@@ -37,13 +37,14 @@ pinned: false
 ![alt text](assets/pdf3.png)
 
 ## Requirements.txt
-  gradio
-  
-  python-docx
-  
-  pdf2docx
-  
-  fpdf2
+
+      gradio
+      
+      python-docx
+      
+      pdf2docx
+      
+      fpdf2
 
 .
 
