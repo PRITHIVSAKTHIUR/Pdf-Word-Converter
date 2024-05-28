@@ -1,0 +1,4 @@
+gradio
+python-docx
+pdf2docx
+fpdf2
