@@ -38,8 +38,11 @@ pinned: false
 
 ## Requirements.txt
   gradio
+  
   python-docx
+  
   pdf2docx
+  
   fpdf2
 
 .
