@@ -6,17 +6,6 @@ import os
 
 title_and_description = """
 # PDF to Word and Word to PDF converter
-Created by [@artificialguybr](https://artificialguy.com)
-
-Upload a PDF file to convert to Word or a Word file to convert to PDF.
-
-## Features
-- **Easy to use**: Simple interface to upload PDF or Word files and convert to the desired format.
-- **High quality**: Converts while maintaining the best possible quality.
-- **Efficient processing**: Uses `pdf2docx`, `fpdf` and `docx` for fast and reliable conversions.
-- **Unlimited Use**: No file limit. Use unlimited!
-
-Feel free to use in your own documents!
 """
 
 def pdf_to_word(pdf_file):
